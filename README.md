@@ -11,7 +11,7 @@
 
 # Beyza Aydın
 
-**`Bilgisayar Mühendisliği Öğrencisi · Backend Geliştirici · Yapay Zekâ & Otonom Sistemler Meraklısı`**
+**`Bilgisayar Mühendisliği Öğrencisi · Backend & Frontend Geliştirici · Yapay Zekâ & Otonom Sistemler`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Backend+Geli%C5%9Ftirici%3A+Java+%26+Spring+Boot;Full+Stack%3A+React+%26+NestJS;Yapay+Zek%C3%A2+%26+Bilgisayarl%C4%B1+G%C3%B6r%C3%BC;Otonom+Sistemler%3A+Drone+%26+S%C3%BCr%C3%BC+%C4%B0HA)](https://git.io/typing-svg)
 
