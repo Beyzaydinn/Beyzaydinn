@@ -24,20 +24,20 @@
 
 ---
 
-## 👩‍💻 Hakkımda
+##  Hakkımda
 
 ```yaml
 name: "Beyza Aydın"
 location: "İstanbul, Türkiye 🇹🇷"
 education: "Bilgisayar Mühendisliği, 4. sınıf @ Recep Tayyip Erdoğan Üniversitesi"
 experience:
-  - "💼 Yazılım Geliştirme Stajyeri @ iCredible Technologies (Temmuz–Ağustos 2026)"
+  - " Yazılım Geliştirme Stajyeri @ iCredible Technologies (Temmuz–Ağustos 2026)"
 leadership:
-  - "🤝 Proje Koordinatörü @ Yapay Zekâ ve Siber Güvenlik Topluluğu"
-  - "🏆 Takım Kaptanı @ TÜBİTAK Otonom Drone Altyapı Denetleme Projesi"
+  - " Proje Koordinatörü @ Yapay Zekâ ve Siber Güvenlik Topluluğu"
+  - " Takım Kaptanı @ TÜBİTAK Otonom Drone Altyapı Denetleme Projesi"
 teknofest_2026:
-  - "🚦 5G ve Yapay Zekâ ile Akıllı Yol Güvenliği Yarışması (Takım Üyesi)"
-  - "🚁 Sürü İHA Yarışması (Takım Üyesi)"
+  - " 5G ve Yapay Zekâ ile Akıllı Yol Güvenliği Yarışması (Takım Üyesi)"
+  - " Sürü İHA Yarışması (Takım Üyesi)"
 currently_learning:
   - "Backend mimarisi ve RESTful API tasarımı"
   - "Yapay zekâ tabanlı görüntü işleme"
@@ -53,9 +53,9 @@ languages:
 
 ---
 
-## 🛠️ Teknolojiler
+##  Teknolojiler
 
-### 💻 Programlama Dilleri
+###  Programlama Dilleri
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,7 +64,7 @@ languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### ⚙️ Backend & Veritabanı
+###  Backend & Veritabanı
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -74,19 +74,19 @@ languages:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🤖 Yapay Zekâ & Görüntü İşleme
+###  Yapay Zekâ & Görüntü İşleme
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎨 Frontend
+###  Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧰 Araçlar
+###  Araçlar
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -97,19 +97,19 @@ languages:
 
 ---
 
-## 📂 Öne Çıkan Projeler
+##  Öne Çıkan Projeler
 
 | Proje | Teknolojiler | Açıklama |
 |-------|--------------|----------|
-| 📦 **Envanter Yönetim Sistemi** | Java, Spring Boot, MySQL, SQLite, JUnit | RESTful API, CRUD işlemleri, veritabanı yönetimi ve birim testleri |
-| 💍 **WeddingApp** | React, Node.js, NestJS, MySQL | Full stack rezervasyon platformu, JWT tabanlı kimlik doğrulama |
-| 🎓 **OBS (Öğrenci Bilgi Sistemi)** | React, Node.js, NestJS, MySQL | Web tabanlı öğrenci bilgi sistemi, REST API mimarisi |
-| 🚁 **Otonom Drone Altyapı Denetleme** | Python, OpenCV | Görüntü işleme tabanlı altyapı denetleme sistemi (TÜBİTAK) |
-| 💬 **Text Sentiment Analysis** | MATLAB | Metin verileri üzerinde duygu analizi ve sınıflandırma |
+|  **Envanter Yönetim Sistemi** | Java, Spring Boot, MySQL, SQLite, JUnit | RESTful API, CRUD işlemleri, veritabanı yönetimi ve birim testleri |
+|  **WeddingApp** | React, Node.js, NestJS, MySQL | Full stack rezervasyon platformu, JWT tabanlı kimlik doğrulama |
+|  **OBS (Öğrenci Bilgi Sistemi)** | React, Node.js, NestJS, MySQL | Web tabanlı öğrenci bilgi sistemi, REST API mimarisi |
+|  **Otonom Drone Altyapı Denetleme** | Python, OpenCV | Görüntü işleme tabanlı altyapı denetleme sistemi (TÜBİTAK) |
+|  **Text Sentiment Analysis** | MATLAB | Metin verileri üzerinde duygu analizi ve sınıflandırma |
 
 ---
 
-## 📊 GitHub İstatistiklerim
+##  GitHub İstatistiklerim
 
 <div align="center">
 
@@ -123,7 +123,7 @@ languages:
 
 <div align="center">
 
-### 💬 Birlikte Güzel Şeyler Geliştirelim
+###  Birlikte Güzel Şeyler Geliştirelim
 
 [![E-posta Gönder](https://img.shields.io/badge/E--posta_Gönder-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aydin.beyyza@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn'de_Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beyza-ayydin)
@@ -135,7 +135,6 @@ languages:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer)
 
 </div>
+##  KODLAMA YOLCULUĞUM 
 
-## 🎮 KODLAMA YOLCULUĞUM (PAC-MAN EDİSYONU)
-
-![pacman contribution graph](https://raw.githubusercontent.com/Beyzaydinn/Beyzaydinn/output/pacman-contribution-graph.svg)
+![github-snake](https://raw.githubusercontent.com/Beyzaydinn/Beyzaydinn/output/github-snake.svg)
