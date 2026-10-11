@@ -18,7 +18,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aydin.beyyza@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beyza-ayydin)
 [![Üniversite](https://img.shields.io/badge/Recep_Tayyip_Erdoğan_Üniversitesi-0055A5?style=for-the-badge&logo=academia&logoColor=white)](https://www.erdogan.edu.tr)
-![Profil Görüntülenme](https://komarev.com/ghpvc/?username=Beyzaydinn&style=for-the-badge&color=58A6FF)
+[![Profil Görüntülenme](https://hits.sh/github.com/Beyzaydinn/Beyzaydinn.svg?style=for-the-badge&color=58a6ff&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenme)](https://hits.sh/github.com/Beyzaydinn/Beyzaydinn/)
 
 </div>
 
